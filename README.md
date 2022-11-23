@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hgrenersen
-- 👀 I’m interested in mathematics and programming, or said more plainly: problem solving😍
+- 👀 I’m interested in mathematics and programming😍
 - 🌱 I’m currently learning about algorithms and datastructures, and numerical optimization
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: shoot me an e-mail - hgrenersen@gmail.com
