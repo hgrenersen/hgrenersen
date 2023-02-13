@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hgrenersen
 - 👀 I’m interested in mathematics and programming😍
-- 🌱 I’m currently learning about algorithms and datastructures, and numerical optimization
+- 🌱 I’m currently learning about mathematical optimization, solving partial differential equations and statistical learning😻
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: shoot me an e-mail - hgrenersen@gmail.com
 
