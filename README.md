@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Henrik Grenersen
-- 👀 I’m interested in mathematics and programming😍
+- 👀 I’m interested in statistics and programming😍
+- 🌱 I'm currently learning about GLMs, time series and ways of solving Sudokus🔢
 - 📫 How to reach me: shoot me an e-mail - hgrenersen@gmail.com
 
 <!---
